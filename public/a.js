@@ -1,0 +1,1 @@
+document.getElementsByTagName("svg")[0].onclick = () => window.location.href = ("/");

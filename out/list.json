@@ -1,0 +1,74 @@
+[
+	{
+		"type": "divan",
+		"name": "Угловой диван",
+		"price": 17000,
+		"url": "/furn/divan/divan1.png"
+	},
+	{
+		"type": "divan",
+		"name": "Двуместный диван",
+		"price": 7000,
+		"url": "/furn/divan/divan2.png"
+	},
+	{
+		"type": "divan",
+		"name": "Мягкий двуместный диван",
+		"price": 11000,
+		"url": "/furn/divan/divan3.png"
+	},
+	{
+		"type": "divan",
+		"name": "Строгий угловой диван",
+		"price": 15000,
+		"url": "/furn/divan/divan4.png"
+	},
+	{
+		"type": "krovat",
+		"name": "Мягкая кровать",
+		"price": 25000,
+		"url": "/furn/krovat/krovat1.png"
+	},
+	{
+		"type": "krovat",
+		"name": "Строгая кровать",
+		"price": 20000,
+		"url": "/furn/krovat/krovat2.png"
+	},
+	{
+		"type": "krovat",
+		"name": "Уютная кровать",
+		"price": 24000,
+		"url": "/furn/krovat/krovat3.png"
+	},
+	{
+		"type": "krovat",
+		"name": "Одноместная кровать",
+		"price": 18000,
+		"url": "/furn/krovat/krovat4.png"
+	},
+	{
+		"type": "kreslo",
+		"name": "Строгое кресло",
+		"price": 7500,
+		"url": "/furn/kreslo/kreslo1.png"
+	},
+	{
+		"type": "kreslo",
+		"name": "Необычное кресло",
+		"price": 7000,
+		"url": "/furn/kreslo/kreslo2.png"
+	},
+	{
+		"type": "kreslo",
+		"name": "Кресло 'режиссёр'",
+		"price": 6000,
+		"url": "/furn/kreslo/kreslo3.png"
+	},
+	{
+		"type": "kreslo",
+		"name": "Старомодное кресло",
+		"price": 8000,
+		"url": "/furn/kreslo/kreslo4.png"
+	}
+]
